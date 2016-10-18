@@ -3,7 +3,7 @@ Summary:	SpiderMonkey 17 - JavaScript 1.8.6 implementation
 Summary(pl.UTF-8):	SpiderMonkey 17 - implementacja języka JavaScript 1.8.6
 Name:		mozjs17
 Version:	17.0.0
-Release:	1
+Release:	2
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		Libraries
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/js/mozjs%{version}.tar.gz
